@@ -20,4 +20,4 @@ List of helpful links
 ## Misc
 
 ## MOOC plus Bootcamps info
-[(https://www.coursereport.com/)]
+https://www.coursereport.com/
